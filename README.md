@@ -12,8 +12,8 @@ https://en.wikipedia.org/wiki/Eikonal_equation#Numerical_approximation.
 
 ### Requirement
 - Python 3.6
-- Numpy [http://www.numpy.org/] 
-- Scipy [https://www.scipy.org/]
+- [Numpy](http://www.numpy.org/)
+- [Scipy](https://www.scipy.org/)
 
 ### Installation
 ``` 
