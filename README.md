@@ -16,6 +16,7 @@ https://en.wikipedia.org/wiki/Eikonal_equation#Numerical_approximation.
 - [Scipy](https://www.scipy.org/)
 
 ### Installation
+In command line, enter
 ``` 
 python install setup.py
 ```
