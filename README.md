@@ -1,4 +1,5 @@
-# Solving the Eikonal equation in 2 dimension, with fast marching method.
+# 2d-improved-Fast-Marching-Method
+## Solving the Eikonal equation in 2 dimension, with fast marching method.
 
 This repository is a slight modification of the package: scikit-fmm: 
 https://github.com/scikit-fmm/scikit-fmm.
