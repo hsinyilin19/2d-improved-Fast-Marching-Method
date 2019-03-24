@@ -10,7 +10,15 @@ The code is changed to use the linear approximation for the situation when the q
 The 2d numerical approximation formula can be found in:
 https://en.wikipedia.org/wiki/Eikonal_equation#Numerical_approximation.
 
+### Requirement
+- Python 3.6
+- Numpy[http://www.numpy.org/] 
+- Scipy[https://www.scipy.org/]
 
+### Installation
+``` 
+python install setup.py
+```
 
 
 
