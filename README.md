@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Eikonal_equation#Numerical_approximation.
 ### Installation
 In command line, enter
 ``` 
-python install setup.py
+python setup.py install
 ```
 
 
